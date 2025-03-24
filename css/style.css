@@ -117,6 +117,20 @@ body {
     height:300px;
 }
 
+.item4 .input-box {
+    background-color: rgb(243, 243, 243);
+}
+
+.item4 .button-green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.item4 .button-orange {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
 .item5 {
     grid-area: footer;
     background-color: rgb(250, 98, 124);
